@@ -1,0 +1,63 @@
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:01:44+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5, 6)`","time":"2024-10-25T22:01:51+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:03:06+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5, 6)`","time":"2024-10-25T22:03:16+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:05:36+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:05:38+01:00"}
+{"level":"info","msg":"testing: function: 0xc00017edc0","time":"2024-10-25T22:05:43+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:08:25+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:08:31+01:00"}
+{"level":"info","msg":"testing: function: 0xc00018cdc0","time":"2024-10-25T22:08:32+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:09:08+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:09:10+01:00"}
+{"level":"info","msg":"testing: function: 0xc00017edc0","time":"2024-10-25T22:09:11+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:11:24+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:11:25+01:00"}
+{"level":"info","msg":"testing: function: 0xc00018adc0","time":"2024-10-25T22:11:25+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:11:49+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:11:51+01:00"}
+{"level":"info","msg":"testing: function: 0xc00019e2c0","time":"2024-10-25T22:11:51+01:00"}
+{"level":"error","msg":"could not find the command handler name in the interpreter handler map","time":"2024-10-25T22:12:39+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:12:42+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:12:46+01:00"}
+{"level":"info","msg":"testing: function: 0xc00022ab80","time":"2024-10-25T22:12:46+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:16:18+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:16:19+01:00"}
+{"level":"info","msg":"testing: function: 0xc0000f2dc0","time":"2024-10-25T22:16:19+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:19:04+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:19:06+01:00"}
+{"level":"info","msg":"testing: function: 0xc00018cdc0","time":"2024-10-25T22:19:06+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:27:25+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:27:28+01:00"}
+{"level":"info","msg":"testing: function: 0xc00010afc0","time":"2024-10-25T22:27:28+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:28:15+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 5)`","time":"2024-10-25T22:28:17+01:00"}
+{"level":"info","msg":"testing: function: 0xc00018cfc0","time":"2024-10-25T22:28:17+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:29:24+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:29:26+01:00"}
+{"level":"info","msg":"testing: function: 0xc00019afc0","time":"2024-10-25T22:29:26+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:30:46+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:30:48+01:00"}
+{"level":"info","msg":"testing: function: 0xc00018cf80","time":"2024-10-25T22:30:48+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:31:17+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:31:20+01:00"}
+{"level":"info","msg":"testing: function: 0xc00017ef80","time":"2024-10-25T22:31:20+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:34:22+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:34:24+01:00"}
+{"level":"info","msg":"testing: function: 0xc00017efc0","time":"2024-10-25T22:34:24+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:35:10+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:35:11+01:00"}
+{"level":"info","msg":"testing: function: 0xc00017ef80","time":"2024-10-25T22:35:11+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:35:28+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:35:29+01:00"}
+{"level":"info","msg":"testing: function: 0xc00018cf80","time":"2024-10-25T22:35:29+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:36:00+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:36:01+01:00"}
+{"level":"info","msg":"testing: function: 0xc00019cf80","time":"2024-10-25T22:36:01+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:36:24+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:36:25+01:00"}
+{"level":"info","msg":"testing: function: 0xc00017ef80","time":"2024-10-25T22:36:25+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:36:42+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:36:43+01:00"}
+{"level":"info","msg":"testing: function: 0xc000172f80","time":"2024-10-25T22:36:43+01:00"}
+{"level":"info","msg":"returning the value `11` from the handler","time":"2024-10-25T22:36:46+01:00"}

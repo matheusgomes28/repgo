@@ -1,0 +1,37 @@
+{"level":"info","msg":"A walrus appears","time":"2024-10-25T20:30:15+01:00"}
+{"level":"info","msg":"we received an add command, handling with script some/path/to/add.lua","time":"2024-10-25T21:01:35+01:00"}
+{"level":"info","msg":"we received an download command, handling with script some/path/to/download.lua","time":"2024-10-25T21:01:39+01:00"}
+{"level":"info","msg":"we received an print command, handling with script some/path/to/pring.lua","time":"2024-10-25T21:01:42+01:00"}
+{"level":"error","msg":"could not find the command handler name in the interpreter handler map","time":"2024-10-25T21:01:49+01:00"}
+{"level":"info","msg":"we received an add command, handling with script some/path/to/add.lua","time":"2024-10-25T21:02:00+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T21:57:28+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5, 6)`","time":"2024-10-25T21:57:28+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:05:12+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(5 6)`","time":"2024-10-25T22:05:12+01:00"}
+{"level":"info","msg":"testing: function: 0xc000162dc0","time":"2024-10-25T22:05:12+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:38:49+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(1 2 39)`","time":"2024-10-25T22:38:49+01:00"}
+{"level":"info","msg":"testing: function: 0xc000160f80","time":"2024-10-25T22:38:49+01:00"}
+{"level":"info","msg":"returning the value `42` from the handler","time":"2024-10-25T22:38:49+01:00"}
+{"level":"info","msg":"we received an add command, handling with script add","time":"2024-10-25T22:38:56+01:00"}
+{"level":"info","msg":"executing LUA: `add::Main(1 2 3 4 5 6 7 8 9 10)`","time":"2024-10-25T22:38:56+01:00"}
+{"level":"info","msg":"testing: function: 0xc000160f80","time":"2024-10-25T22:38:56+01:00"}
+{"level":"info","msg":"returning the value `55` from the handler","time":"2024-10-25T22:38:56+01:00"}
+{"level":"info","msg":"we received an sub command, handling with script sub","time":"2024-10-25T22:39:02+01:00"}
+{"level":"info","msg":"executing LUA: `sub::Main(10 5)`","time":"2024-10-25T22:39:02+01:00"}
+{"level":"info","msg":"testing: function: 0xc0001a7e40","time":"2024-10-25T22:39:02+01:00"}
+{"level":"info","msg":"returning the value `5` from the handler","time":"2024-10-25T22:39:02+01:00"}
+{"level":"info","msg":"we received an sub command, handling with script sub","time":"2024-10-25T22:39:10+01:00"}
+{"level":"info","msg":"executing LUA: `sub::Main(5 10)`","time":"2024-10-25T22:39:10+01:00"}
+{"level":"info","msg":"testing: function: 0xc0001a7e40","time":"2024-10-25T22:39:10+01:00"}
+{"level":"info","msg":"returning the value `-5` from the handler","time":"2024-10-25T22:39:10+01:00"}
+{"level":"info","msg":"we received an sub command, handling with script sub","time":"2024-10-25T22:39:17+01:00"}
+{"level":"info","msg":"executing LUA: `sub::Main(10000000 - 1)`","time":"2024-10-25T22:39:17+01:00"}
+{"level":"info","msg":"testing: function: 0xc0001a7e40","time":"2024-10-25T22:39:17+01:00"}
+{"level":"info","msg":"we received an sub command, handling with script sub","time":"2024-10-25T22:39:48+01:00"}
+{"level":"info","msg":"executing LUA: `sub::Main(10000000000 - 1)`","time":"2024-10-25T22:39:48+01:00"}
+{"level":"info","msg":"testing: function: 0xc0001a7e40","time":"2024-10-25T22:39:48+01:00"}
+{"level":"info","msg":"we received an sub command, handling with script sub","time":"2024-10-25T22:39:56+01:00"}
+{"level":"info","msg":"executing LUA: `sub::Main(1000000000 1)`","time":"2024-10-25T22:39:56+01:00"}
+{"level":"info","msg":"testing: function: 0xc0001a7e40","time":"2024-10-25T22:39:56+01:00"}
+{"level":"info","msg":"returning the value `999999999` from the handler","time":"2024-10-25T22:39:56+01:00"}
